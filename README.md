@@ -108,6 +108,8 @@ to program fixed-pipeline switches using the Tomahawk chip from Broadcom.
     - Edgecore AS7712-32X
     - Edgecore AS7716-24XC Cassini
     - Dell Z9100
+    - D-Link [DQS-5000-54SQ28](https://us.dlink.com/en/products/dqs-5000-54sq28-54-port-25g100g-data-center-switch)
+    - D-Link [DQS-5000-32Q28](https://us.dlink.com/en/products/dqs-5000-32q28-32-port-100g-data-center-switch)
     - Inventec D7032
     - QCT QuantaMesh T7032-IX1
 - Tomahawk+
@@ -116,6 +118,8 @@ to program fixed-pipeline switches using the Tomahawk chip from Broadcom.
 - Tomahawk2
 - Tomahawk3
 - Trident2
+    - D-Link [DXS-5000-54S](https://us.dlink.com/en/products/dxs-5000-54s-54-port-10g40g-data-center-switch)
+    - D-Link [DQS-5000-32S](https://us.dlink.com/en/products/dqs-5000-32s-32-port-40g-data-center-switch)
     - Edgecore AS6712
     - Inventec D6254
 
